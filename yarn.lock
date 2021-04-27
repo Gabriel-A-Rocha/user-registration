@@ -720,6 +720,11 @@
   "resolved" "https://registry.npmjs.org/@types/uuid/-/uuid-8.3.0.tgz"
   "version" "8.3.0"
 
+"@types/yamljs@^0.2.31":
+  "integrity" "sha512-QcJ5ZczaXAqbVD3o8mw/mEBhRvO5UAdTtbvgwL/OgoWubvNBh6/MxLBAigtcgIFaq3shon9m3POIxQaLQt4fxQ=="
+  "resolved" "https://registry.npmjs.org/@types/yamljs/-/yamljs-0.2.31.tgz"
+  "version" "0.2.31"
+
 "@types/yargs-parser@*":
   "integrity" "sha512-37RSHht+gzzgYeobbG+KWryeAW8J33Nhr69cjTqSYymXVZEN9NbRYWoYlRtDhHKPVT1FyNKwaTPC1NynKZpzRA=="
   "resolved" "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-20.2.0.tgz"
